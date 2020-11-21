@@ -1,9 +1,7 @@
-import './App.css';
-
 function App() {
   return (
     <div className="App">
-      Wildfire Tracker - React App
+      <h1>Wildfire Tracker</h1>
     </div>
   );
 }
