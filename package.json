@@ -1,5 +1,6 @@
 {
   "name": "wildfire-tracker",
+  "homepage": "https://wildfiretracking.netlify.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
