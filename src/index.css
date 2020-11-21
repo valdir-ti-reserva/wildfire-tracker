@@ -17,3 +17,15 @@ code {
   height: 100vh;
   position: relative;
 }
+
+.location-icon {
+  font-size: 2rem;
+  color: red;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
